@@ -1,0 +1,20 @@
+{
+  "lpi_version": "1.0",
+  "app_name": "YOUR_APP_NAME_HERE",
+  "version": "1.0.0",
+  "developer": "COMPANY_OR_DEVELOPER_NAME",
+  "icon": "icon.png",
+  "terms_and_conditions": "terms.txt",
+  "required_permissions": [
+    {
+      "id": "accessibility",
+      "name": "Accessibility Features",
+      "description": "Explain here why your company's app needs accessibility access."
+    },
+    {
+      "id": "notifications",
+      "name": "System Notifications",
+      "description": "Explain here why your company's app needs to send notifications."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+==================================================
+TERMS AND CONDITIONS - LPI APPLICATION
+==================================================
+
+By installing this application through the Linux Packager Box (.LPB), 
+you agree to the following terms:
+
+1. SAFE USE: This application is secure and respects your system's privacy.
+2. MODIFICATIONS: You are free to modify and share this app under the developer's license.
+3. PERMISSIONS: Any system permissions granted during this installation will be 
+   used exclusively for the correct functioning of the application.
+
+Click "Accept" inside the box to automatically proceed with the installation.
