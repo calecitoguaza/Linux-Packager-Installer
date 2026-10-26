@@ -15,7 +15,7 @@ Linux users are often tired of typing complex terminal commands, managing missin
 
 * **Universal Plantilla (`.lpi`):** A clean container format where companies (like Google, Spotify, or indie devs) can bundle their binaries, custom terms, and metadata.
 * **The "Open Box" Concept:** Users interact with a virtual box that unfolds smoothly to guide them through the process.
-* **Smart Pre-Approved Perms:** *Your Innovation!* Users can toggle system permissions (like Accessibility Features or System Notifications) via clean toggles **before** the app finishes downloading and executing.
+* **Smart Pre-Approved Perms:** Users can toggle system permissions (like Accessibility Features or System Notifications) via clean toggles **before** the app finishes downloading and executing.
 * **One-Click Security:** Authenticate with a single admin password prompt and let the background engine do the heavy lifting.
 
 ---
